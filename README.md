@@ -6,7 +6,7 @@ This project was generated with [NestJS](https://docs.nestjs.com/v8/) version 8.
 
 This are my local dependencies used to run this project:
  - Nodejs 20.12.1;
- - npm 10.5.0 (you can use other package managers if you preffer);
+ - npm 10.5.0 (you can use other package managers if you prefer);
  - Nest CLI 8.2.8;
  - Postgres DB;
 
